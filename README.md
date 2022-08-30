@@ -1,12 +1,15 @@
 Um aplicativo em react que trás as statisticas do covid.
 
+\*Mudei aqui pra testar
+
 ## Installation
+
 - git clone https://github.com/sambreen27/covid19.git
 - cd covid19
 - npm install
 - npm start
 
-Runs the app in the development mode.<br />
+Runs the app in the development mode.`<br />`
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## COVID-19 API - Test
@@ -19,7 +22,6 @@ GET https://covid19.mathdro.id/api/countries/{countryName} -> get specific count
 
 API provided by: https://github.com/mathdroid/covid-19-api
 
-
 ## Tech Stack
 
 - [React JS](https://github.com/facebook/react)
@@ -31,17 +33,6 @@ API provided by: https://github.com/mathdroid/covid-19-api
 
 ## Preview
 
-- ![Global Data](https://github.com/sambreen27/covid19/blob/master/src/images/covid1.png) 
-![Global Data](https://github.com/sambreen27/covid19/blob/master/src/images/covid2.png) 
-![Specific Country Data](https://github.com/sambreen27/covid19/blob/master/src/images/covid3.png)
-
-
-
-
-
-
-
-
-
-
-
+- ![Global Data](https://github.com/sambreen27/covid19/blob/master/src/images/covid1.png)
+  ![Global Data](https://github.com/sambreen27/covid19/blob/master/src/images/covid2.png)
+  ![Specific Country Data](https://github.com/sambreen27/covid19/blob/master/src/images/covid3.png)
